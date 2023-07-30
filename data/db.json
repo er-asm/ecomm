@@ -1,0 +1,58 @@
+{
+  "sellers": [
+    {
+      "id": 1,
+      "seller_email": "asm@gmail.com",
+      "seller_name": "Anand Saurabh",
+      "seller_password": "12345"
+    },
+    {
+      "seller_email": "virat@gmail.com",
+      "seller_name": "virat kohli",
+      "seller_password": "12345",
+      "id": 2
+    },
+    {
+      "fullname": "Dogra ",
+      "email": "magadhbytes@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "fullname": "Dogra ",
+      "email": "magadhbytesdsds@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "fullname": "asm",
+      "email": "asm@a.com",
+      "password": "asm",
+      "id": 5
+    },
+    {
+      "fullname": "a",
+      "email": "anandsaurabhworld@gmail.com",
+      "password": "a",
+      "id": 6
+    },
+    {
+      "fullname": "a",
+      "email": "anandsaurabhworld@gmail.com",
+      "password": "a",
+      "id": 7
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "id": 9
+    }
+  ]
+}

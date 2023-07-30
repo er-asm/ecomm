@@ -1,0 +1,11 @@
+<div class="seller-signup-container">
+  <div class="seller-auth">
+    <h1>Seller Registration</h1>
+    <form #sellerSignup="ngForm" (ngSubmit)="sellerRegister(sellerSignup.value)" class="common-form">
+      <input class="input-form" ngModel type="text" name="fullname" placeholder="Enter full name">
+      <input class="input-form" ngModel type="email" name="email" placeholder="Enter your email">
+      <input class="input-form" ngModel type="password" name="password" placeholder="Enter your password">
+      <button class="input-button">Signup</button>
+    </form>
+  </div>
+</div>
