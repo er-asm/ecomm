@@ -16,6 +16,7 @@ export class SellerService {
     return this.http.post('http://localhost:3000/sellers',data,{observe:'response'}).subscribe((result)=>{
         if(result){
           this.isSellerLoggedIn.next(true);
+
           this.router.navigate(['dashboard']);
         }
     });
